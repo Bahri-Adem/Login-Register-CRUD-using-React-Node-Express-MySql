@@ -13,6 +13,12 @@ This is a full-stack web application built using React, Node.js, Express, and My
 - MySQL database: Stores student records and user account information in a MySQL database.
 - SweetAlert: Integrates SweetAlert library to display attractive and user-friendly alert messages.
 
+
+
+https://github.com/Bahri-Adem/Login-Register-CRUD-using-React-Node-Express-MySql/assets/103949052/49fd9bcd-4a3c-457d-80df-05f3ee32239e
+
+
+
 ## Installation
 
 1. Clone the repository:
